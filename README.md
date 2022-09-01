@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/slaininblood" target="blank"><img src="https://img.shields.io/twitter/follow/slaininblood?logo=twitter&style=for-the-badge" alt="slaininblood" /></a> </p>
 
+- dev @ [lie.rip](https://lie.rip)
 - working on [slain](https://slain.info)
 
 <h3 align="left">Connect with me:</h3>
